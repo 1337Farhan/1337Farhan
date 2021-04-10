@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1337Farhan
+- 👋 Hi, I’m Farhan
 - 👀 I’m interested in Web development & Cybersecurity
 - 🌱 I’m currently learning Web dvelopment with Python-Django
 - 📫 How to reach me at jx@outlook.cl
