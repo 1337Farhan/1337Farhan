@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan.
 - 👀 I’m interested in Web development & Cybersecurity
-- 🌱 I’m currently learning Web dvelopment with Python-Django
+- 🌱 I’m currently learning Web dvelopment with #Python-Flask #Python-Django
 - 📫 You can reach me at jx@outlook.cl
 
 <!---
