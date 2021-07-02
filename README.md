@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Farhan.
-- 👀 I’m interested in Web development & Cybersecurity
-- 🌱 I’m currently learning Web dvelopment with #Python-Flask #Python-Django
-- 📫 You can reach me at jx@outlook.cl
+# Info 📜
+<address>
+Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
+I am a computer engineering students who's interested in Web Development and Cybersecurity, currently learning Python/Django, Python/Flask, and Linux Adminstration.<br>
+<br>
+You can reach me at <a href="mailto:jxx@outlook.cl"> jx@outlook.cl</a>.<br>
+</address>
 
-<!---
-1337Farhan/1337Farhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Disclaimer ⚠
+Users take the full responsiblity for using my scripts/tools as they are made for learning purposes.
