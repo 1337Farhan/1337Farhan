@@ -1,9 +1,9 @@
 # Info 📜
 <address>
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
-I'm a computer engineering student who's interested in Web Development and Cybersecurity, currently learning Python/Django, and Linux Adminstration.<br>
+I'm a Full-stack Django developer, currently enjoying cybersecurity.<br>
 <br>
-You can reach me at <a href="mailto:jx@outlook.cl"> jx@outlook.cl</a>.<br>
+You can reach me out using <a href="mailto:jx@outlook.cl">jx@outlook.cl</a>.<br>
 </address>
 
 # Disclaimer ⚠
