@@ -5,4 +5,4 @@ I'm a Full-stack Django developer, currently enjoying cybersecurity.<br>
 
 
 # Disclaimer ⚠
-Users take the full responsiblity for using my scripts/tools as they are made for educational purposes.
+Users take full responsiblity for using my scripts/tools.
