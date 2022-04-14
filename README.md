@@ -1,7 +1,6 @@
 # Info 📜
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
 I'm a Django web developer, currently enjoying cybersecurity.<br>
-<br>
 # Stats 📊
 <table cellpadding="0">
   <tr style="border-top: none; padding: 0;">
