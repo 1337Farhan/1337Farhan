@@ -6,7 +6,7 @@ I'm a Django web developer, currently enjoying cybersecurity.<br>
   <tr style="border-top: none; padding: 0;">
     <td>
       <a href="https://app.daily.dev/1337Farhan">
-        <img src="https://api.daily.dev/devcards/4f9b1ceb157548f7979b564c4da0c503.png?r=xed" width="200" alt="1337Farhan's Dev Card"/>
+        <img src="https://api.daily.dev/devcards/4f9b1ceb157548f7979b564c4da0c503.png?r=xed" width="400" alt="1337Farhan's Dev Card"/>
       </a>
     </td>
     <!---->
