@@ -2,7 +2,7 @@
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
 I'm a Django web developer, currently enjoying cybersecurity.<br>
 # Stats 📊
-<table cellpadding="0">
+<table cellpadding="0" colpadding="0">
   <tr style="border-top: none; padding: 0;">
     <td>
       <a href="https://app.daily.dev/1337Farhan">
