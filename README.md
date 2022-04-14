@@ -11,9 +11,8 @@ I'm a Django web developer, currently enjoying cybersecurity.<br>
     </td>
     <!---->
     <td>
-      <a href="https://github-readme-stats.vercel.app/api?username=1337Farhan)](https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337Farhan&layout=compact&theme=algolia&card_width=445">
-      </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=1337Farhan&show_icons=true&count_private=true&theme=algolia">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337Farhan&layout=compact&theme=algolia&card_width=445">
     </td>    
   </tr>
 </table>
