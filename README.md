@@ -1,6 +1,6 @@
 # Info 📜
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
-I'm a Django web developer, currently enjoying cybersecurity.<br>
+I'm working as a Full Stack Django developer, learning AI and cybersecurity.<br>
 # Stats 📊
 <table cellpadding="0" cellspacing="0">
   <tr style="border-top: none; padding: 0;">
@@ -18,4 +18,4 @@ I'm a Django web developer, currently enjoying cybersecurity.<br>
 </table>
 
 # Disclaimer ⚠
-Users take full responsiblity for using my scripts/tools.
+Users take full responsibility for using my scripts/tools.
