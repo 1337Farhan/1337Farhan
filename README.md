@@ -2,7 +2,7 @@
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
 I'm working as a Full Stack Django developer, learning AI and cybersecurity.<be>
 
-![gif](https://64.media.tumblr.com/aa94b2b2eeec249e08842940d6792a42/tumblr_p51j83xTPS1w4t58uo1_540.gifv)
+![https://64.media.tumblr.com/aa94b2b2eeec249e08842940d6792a42/tumblr_p51j83xTPS1w4t58uo1_540.gifv](https://64.media.tumblr.com/33672dc7f845bd4d19a68de68c2218d6/tumblr_p2bu0tCthB1w4t58uo1_540.gifv)
 
 # Stats 📊
 <table cellpadding="0" cellspacing="0">
