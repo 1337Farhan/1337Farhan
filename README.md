@@ -1,6 +1,9 @@
 # Info 📜
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
-I'm working as a Full Stack Django developer, learning AI and cybersecurity.<br>
+I'm working as a Full Stack Django developer, learning AI and cybersecurity.<be>
+
+![gif](https://64.media.tumblr.com/aa94b2b2eeec249e08842940d6792a42/tumblr_p51j83xTPS1w4t58uo1_540.gifv)
+
 # Stats 📊
 <table cellpadding="0" cellspacing="0">
   <tr style="border-top: none; padding: 0;">
@@ -11,8 +14,8 @@ I'm working as a Full Stack Django developer, learning AI and cybersecurity.<br>
     </td>
     <!---->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=1337Farhan&show_icons=true&count_private=true&theme=algolia">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337Farhan&layout=compact&theme=algolia&card_width=445">
+      <img src="https://github-readme-stats.vercel.app/api?username=1337Farhan&show_icons=true&count_private=true&theme=algolia"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337Farhan&layout=compact&theme=algolia&card_width=445"/>
     </td>    
   </tr>
 </table>
