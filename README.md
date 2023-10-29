@@ -19,5 +19,5 @@ I'm working as a Full Stack Django developer, learning AI and cybersecurity.<be>
   </tr>
 </table>
 
-# Disclaimer ⚠
+# Disclaimer ☢️
 Users take full responsibility for using my scripts/tools.
