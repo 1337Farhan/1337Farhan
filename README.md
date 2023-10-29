@@ -1,8 +1,8 @@
 # Info 📜
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
-Full Stack Django developer, learning cybersec.<be>
+Full Stack Django developer, experimenting with cybersec.<be>
 
-![https://filebin.net/57nhqpk9j8c0z38e/Aaa.MP4](https://filebin.net/57nhqpk9j8c0z38e/Aaa.MP4)
+![Gif](https://github.com/1337Farhan/1337Farhan/blob/main/typing%20email.gif)
 # Stats 📊
 <table cellpadding="0" cellspacing="0">
   <tr style="border-top: none; padding: 0;">
