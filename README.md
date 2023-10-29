@@ -1,6 +1,6 @@
 # Info 📜
 Hey, this is <a href="https://github.com/1337Farhan"> Farhan</a>,<br>
-I'm working as a Full Stack Django developer, learning AI and cybersecurity.<be>
+Full Stack Django developer, learning cybersec.<be>
 
 ![https://filebin.net/57nhqpk9j8c0z38e/Aaa.MP4](https://filebin.net/57nhqpk9j8c0z38e/Aaa.MP4)
 # Stats 📊
